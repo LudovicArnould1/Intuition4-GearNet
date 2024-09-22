@@ -1,2 +1,2 @@
-# Basic and comprehensive implementation of GearNet with Pytorch
+# Basic and comprehensive implementation of GearNet with Pytorch
 
